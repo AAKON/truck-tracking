@@ -26,6 +26,8 @@ urlpatterns = [
 
     path('vehicle/',views.vehicle_form,name='vehicle'),
 
+    path('rfcard/',views.rf_card_form,name='rfcard'),
+
 ]
 
 urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
