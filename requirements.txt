@@ -27,7 +27,7 @@ distro==1.5.0
 Django==3.0.7
 django-plotly-dash==1.4.1
 django-redis==4.12.1
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 dpd-components==0.1.0
 filelock==3.0.12
 Flask==1.1.2
